@@ -1,0 +1,8 @@
+[
+  {
+    "category": "high_entropy_possible_packed_or_encrypted",
+    "value": "7.901 bits/byte",
+    "source": "examples\\sample_random.bin",
+    "severity": "high"
+  }
+]
